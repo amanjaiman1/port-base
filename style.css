@@ -672,7 +672,8 @@ body {
 
 .container3 .box3:nth-child(1) .circle,
 .container3 .box3:nth-child(1) .buy {
-  background: #9bdc28;
+  background: rgb(200,194,227);
+background: linear-gradient(180deg, rgba(200,194,227,1) 0%, rgba(203,255,246,0.4741246840533089) 100%);
 }
 
 .container3 .box3:nth-child(2) .circle,
